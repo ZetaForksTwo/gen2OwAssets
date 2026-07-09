@@ -1046,4 +1046,11 @@ BetaBlank_Blocks: ; unreferenced
 GoldenrodDeptStoreRoof_Blocks:
 	INCBIN "maps/GoldenrodDeptStoreRoof.ablk"
 
+
+
+SECTION "Map Blocks 4", ROMX
+
+TwinleafTown_Blocks:
+	INCBIN "maps/TwinleafTown.ablk"
+	
 ENDSECTION

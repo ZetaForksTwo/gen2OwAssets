@@ -500,5 +500,10 @@ ENDM
 	map_const MR_POKEMONS_HOUSE,                            4,  4 ; 10
 	map_const ROUTE_31_VIOLET_GATE,                         5,  4 ; 11
 	endgroup
+	
+	newgroup TWINLEAF                                             ; 26
+	map_const TWINLEAF_TOWN,                               10,  9 ;  1
+	endgroup
 
-DEF NUM_MAP_GROUPS EQU const_value ; 26
+
+DEF NUM_MAP_GROUPS EQU const_value ; 27

@@ -10,6 +10,7 @@ ENDM
 Tileset0Anim:
 TilesetJohtoModernAnim:
 TilesetKantoAnim:
+TilesetSinnohAAnim:
 	tileframe AnimateWaterTile,        vTiles2 tile $14
 	tileframe WaitTileAnimation
 	tileframe WaitTileAnimation

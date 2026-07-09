@@ -105,3 +105,7 @@
 ; group 26 (Cherrygrove)
 	RGB 31,14,28, 31,05,21 ; morn/day
 	RGB 14,07,17, 13,00,08 ; nite
+	
+; group 27 (Twinleaf)
+	RGB 00,24,14, 00,15,13 ; morn/day
+	RGB 00,12,17, 00,09,14 ; nite

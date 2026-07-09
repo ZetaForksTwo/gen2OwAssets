@@ -452,3 +452,17 @@ INCBIN "data/tilesets/omanyte_word_room_attributes.bin"
 
 TilesetAerodactylWordRoomAttr::
 INCBIN "data/tilesets/aerodactyl_word_room_attributes.bin"
+
+SECTION "Tileset Data 12", ROMX
+
+TilesetSinnohAGFX::
+INCBIN "gfx/tilesets/sinnoh_a.2bpp.lz"
+
+TilesetSinnohAMeta::
+INCBIN "data/tilesets/sinnoh_a_metatiles.bin"
+
+TilesetSinnohAColl::
+INCLUDE "data/tilesets/sinnoh_a_collision.asm"
+
+TilesetSinnohAAttr::
+INCBIN "data/tilesets/sinnoh_a_attributes.bin"
